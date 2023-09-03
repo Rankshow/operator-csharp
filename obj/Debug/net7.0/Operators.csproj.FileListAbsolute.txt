@@ -1,0 +1,14 @@
+C:\Users\Micheal\Operators\bin\Debug\net7.0\Operators.exe
+C:\Users\Micheal\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\Users\Micheal\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\Users\Micheal\Operators\bin\Debug\net7.0\Operators.dll
+C:\Users\Micheal\Operators\bin\Debug\net7.0\Operators.pdb
+C:\Users\Micheal\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\Users\Micheal\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\Users\Micheal\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Micheal\Operators\obj\Debug\net7.0\Operators.dll
+C:\Users\Micheal\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\Users\Micheal\Operators\obj\Debug\net7.0\Operators.pdb
+C:\Users\Micheal\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\Users\Micheal\Operators\obj\Debug\net7.0\ref\Operators.dll
